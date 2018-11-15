@@ -1,33 +1,35 @@
+
+@@ -1,16 +1,9 @@
 # Project1: Sunny Weekend
-
-People don't like making decisions, but travel planning requires hours upon hours of decision making. Our website will deliver "customized" travel itineraries for a city with good weather this weekend. Carpe diem!
-
-https://sallan306.github.io/Project1/
-
-
-# Team Members
+ People don't like making decisions, but travel planning requires hours upon hours of decision making. Our website will deliver "customized" travel itineraries for a city with good weather this weekend. Carpe diem!
+ https://sallan306.github.io/Project1/
+ # Team Members
   * Scott Allan -- GitHub Guru, Backend, APIs (weather, google maps)
   * Anna Park -- Backend, hotel API (trip advisor, sabre, yelp)
   * Elena Henry  -- Project Manager, Frontend, UI person, Miscellanius back-end tasks
   * Slayte Eaton -- Backend attractions API (trip advisor, yelp)
   * Ryan Leach -- Backend Iternary Maker (API trip advisor)
+  * Scott Allan -- GitHub Guru, Firebase, Yahoo Weather, Google Maps
+  * Anna Park -- Yelp API, UI Developer, JS Developer
+  * Elena Henry  -- Project Manager, Frontend, UX Developer
+  * Slayte Eaton -- Yelp API, JS Developer
+  * Ryan Leach -- JS Developer
   
   # Project Description
   
-  The user will input some intial data about their current location, budget and preferences for attractions, then the app will spit out an itinerary for a city with good weather that weekend. Itineraries are going to be pulled from highly rated places on Trip Advisor. There will also be options to remix a different vacation if the user wants to change something.
-  
-  # Sketch
-  
-  ![alt text](https://github.com/sallan306/Project1/blob/master/IMG_20181107_140247.jpg)
+@@ -22,11 +15,22 @@ https://sallan306.github.io/Project1/
   
   
   
   # APIs We Will Use
+  # APIs We Use
   
   We plan on using Trip Advisor, Open Weather Map, Google Maps, and possible Sabre.
+  Yahoo Weather API
+  Yelp API
+  Google Maps
   
   We will also use Parsley JS to validate user input.
-  
   # Tasks
   We will track tasks using Trello. These are some of our tasks (in no particular order)
   
@@ -39,3 +41,5 @@ https://sallan306.github.io/Project1/
   6. Either make an array cities or research an API that will do that
   7. Format the actual output information.
   
+  # Tasks
+  We tracked tasks using Trello.
