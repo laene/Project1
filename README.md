@@ -43,3 +43,7 @@
   
   # Tasks
   We tracked tasks using Trello.
+  
+  # Presentation
+  
+  https://docs.google.com/presentation/d/11LjbQNsVWKfjMOHMgTWUKnlkfXwmiufiYyfeWEgZw-E/edit?usp=sharing 
